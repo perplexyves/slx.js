@@ -1,2 +1,3 @@
-# slx.js
+# Slx.js
+
 First release by end of summer. Come back soon!
