@@ -1,0 +1,16 @@
+.slx-container {
+	opacity: 0 !important;
+	position: fixed !important;
+	z-index: 1000001 !important;
+	inset: 0 !important;
+	cursor: crosshair !important;
+}
+
+.slx {
+	border: 1.61px solid #0078d7 !important;
+	box-sizing: border-box !important;
+	background-color: #ace !important;
+	opacity: 0.5 !important;
+	position: fixed !important;
+	z-index: 1000000 !important;
+}
