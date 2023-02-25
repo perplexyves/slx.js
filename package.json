@@ -1,0 +1,32 @@
+{
+  "name": "slx.js",
+  "version": "1.0.0",
+  "description": "Drag anywhere in your website to create a rectangular box (selection) like in Explorer / Desktop / Finder!",
+  "main": "dist/slx.min.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perplexyves/slx.js.git"
+  },
+  "keywords": [
+    "selection",
+    "box",
+    "area",
+    "slx"
+  ],
+  "author": "Yves Daaboul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perplexyves/slx.js/issues"
+  },
+  "homepage": "https://github.com/perplexyves/slx.js#readme",
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "css-minimizer-webpack-plugin": "^4.2.2",
+    "mini-css-extract-plugin": "^2.7.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
