@@ -2,6 +2,13 @@
 # [Slx.js](https://npmjs.com/slx.js) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/perplexyves/slx.js/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/slx.js.svg?style=flat)](https://www.npmjs.com/slx.js) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/perplexyves/slx.js/pulls)
 
 ## 0 - Synopsis 💡
+
+How many times did you find yourself on a website where you were **dragging** with your mouse trying to create a rectangular box/selection (blue rectangle), but realized that this feature (native to the Desktop) doesn't exist on any website?!!
+
+Well, we're glad to announce that these days belong now to the past, thanks to the library _**Slx.js**_
+
+<br>
+
 ## 1 - Quickstart 🏃🏻‍♂️🚶🏻‍♂️
 
 ### A) Installation
@@ -51,11 +58,26 @@ https://user-images.githubusercontent.com/98392882/221425377-7d2eebe6-4d52-440a-
 
 ---
 
+<br>
+
 ## 2 - Some use cases ⚙
 
 You can find hundred of applications for Slx.js (Your creativity is the limit!).
 
 We will expose 2 of them:
+
+### A) Showing a very specific thing
+
+Sometimes you mention some web terms in front of your peers/friends. For instance, "in my website we should adjust the position of the sidebar". You can guarantee that those who are hearing you understand exactly what you want by actually "selecting" this area (the sidebar):
+
+![image](https://user-images.githubusercontent.com/98392882/221439855-8299296f-a792-4e2f-ba95-95efef3a41b2.png)
+
+<br>
+
+Another example could be talking about a "breadcrumb" (which is less popular). By delimiting the area around the element that you're talking about, you will eliminate the knowledge gaps:
+
+![image](https://user-images.githubusercontent.com/98392882/221440032-0081f68e-69d8-480e-aec6-141dcf385f1a.png)
+
 
 ### B) Highlighting something quickly
 
