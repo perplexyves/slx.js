@@ -73,7 +73,7 @@ function addEvents() {
 
 }
 
-function init(options) {
+function init(options = {}) {
 	const { key, cursor } = options;
 	document.body
 		.addEventListener("keyup", event => {
