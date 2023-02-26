@@ -23,6 +23,8 @@ yarn add -D slx.js
 
 Slx.js is a development package; it is meant to help you locally. That's why we recommend you to install it as a dev dependency.
 
+You're free however if you want to ship it with your website (if so remove the `-D` argument).
+
 ### B) Link to your website
 
 Once the library installed (in node_modules folder), go to your main html file, then add in the `<head>` the following tag:
