@@ -51,9 +51,19 @@ https://user-images.githubusercontent.com/98392882/221425377-7d2eebe6-4d52-440a-
 
 ## 2 - Some use cases ⚙
 
-On the 1st of October, the 1st stable version of KlonexJS will
-be released. It is going to be a game changer in web
-development!
+You can find hundred of applications for Slx.js (Your creativity is the limit!).
 
-In the following weeks, many updates will be added to this
-README file, so, stay tuned...
+We will expose 2 of them:
+
+### A) Highlighting something quickly
+
+When you're on a page where there's a lot of text and want to show a specific word or Sentence to someone, most probably you will select this portion of text in order for the person to see it quickly.
+
+But what if the words become images or videos; what will you do to "select" any?
+This is a less common use case, definitely, but you never know when it suddenly happens.
+
+Imagine this scenario: you're on your website which is something like YouTube; then you tell to someone "Hey throw a look at the video of Steve Harvey" (see below image). By "selecting" the area where the thumbnail appears, you are in fact highlighting this zone thus people will be able to follow you more quickly while speaking.
+
+![image](https://user-images.githubusercontent.com/98392882/221430498-a1b324d1-074a-4553-913e-dff659e5b13f.png)
+
+
