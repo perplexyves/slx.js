@@ -55,7 +55,7 @@ You can find hundred of applications for Slx.js (Your creativity is the limit!).
 
 We will expose 2 of them:
 
-### A) Highlighting something quickly
+### B) Highlighting something quickly
 
 When you're on a page where there's a lot of text and want to show a specific word or Sentence to someone, most probably you will select this portion of text in order for the person to see it quickly.
 
@@ -67,3 +67,4 @@ Imagine this scenario: you're on your website which is something like YouTube; t
 ![image](https://user-images.githubusercontent.com/98392882/221430498-a1b324d1-074a-4553-913e-dff659e5b13f.png)
 
 
+**In all cases, Slx.js will help you a lot while you collaborate with others by showing them *exactly* what you mean!**
